@@ -1,5 +1,11 @@
 # funny-programmer-jokes
 
+
+Q | !false
+---
+A | It's funny cause it's true.
+
+
 Q | What did the network administrator with a bladder infection say?
 ---
 A | It hurts when IP.
