@@ -18,3 +18,8 @@ A | It hurts when IP.
 Q | What's the difference between a software developer and a brick?
 ---
 A | The brick gets laid.
+
+
+Q | What is a ghost's favourite data type?
+---
+A | BOOOOOOOOOOOOOOlean.
